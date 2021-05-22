@@ -11,9 +11,7 @@ So, who the hell am I, what am I, and what the even is this blog thing about any
 
 Well, my name is Paul. I might be an indie game developer given that I have made a game (almost). Lastly, this blog is going to be a place to post updates and musings on all things relating to the former.
 
-This blog will be a place for me to ramble. That will include thoughts on game design and programming challenges. There may even be a spat of creative writing on here too... God help us all.
-
-This initial blog post to give a rambling overview on the sort of person I am, some stuff I've been doing, and if you think I have anything worth saying.
+This initial blog post to give a rambling overview on the sort of person I am, some stuff I've been doing, and if you think I have anything worth saying. Later posts will include thoughts on game design and programming challenges. There may even be a spat of creative writing on here too... God help us all.
 
 ## Why video games?
 I love them. Simple as that. Grew up with them and was inspired by them. My major inspirations are:
